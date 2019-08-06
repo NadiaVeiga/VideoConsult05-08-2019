@@ -84,7 +84,8 @@
 		<config-file target="Entitlements-*.plist" parent="keychain-access-groups">
 			<array>
 				<string>$(AppIdentifierPrefix)VidyoLicense</string>
-				<string>$(AppIdentifierPrefix)com.example.VidyoConnector</string>
+				/*<string>$(AppIdentifierPrefix)com.example.VidyoConnector</string>*/
+				<string>$(AppIdentifierPrefix)com.NOK.NOK</string>
 			</array>
 		</config-file>
 
